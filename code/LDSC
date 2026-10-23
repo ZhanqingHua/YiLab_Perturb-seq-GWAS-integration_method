@@ -1,0 +1,5 @@
+%%bash
+export TMPDIR=/hpc/group/yizhanglab/zh227/tmp
+source /hpc/group/yizhanglab/zh227/miniforge3/bin/activate
+conda activate ldsc
+cd /hpc/group/yizhanglab/zh227/tools/ldsc
